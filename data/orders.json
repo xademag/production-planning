@@ -1,0 +1,8 @@
+[
+  {
+    "id": "order-1",
+    "product_id": "prod-1",
+    "quantity": 120,
+    "due_date": "2026-05-10"
+  }
+]

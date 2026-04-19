@@ -1,0 +1,8 @@
+[
+  {
+    "id": "prod-1",
+    "name": "Widget A",
+    "lead_time_days": 3,
+    "batch_size": 50
+  }
+]
